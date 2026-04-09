@@ -42,10 +42,12 @@ To start, be careful not to make changes on the same line -- this can introduce 
 **Question 6.** Would you rather eat rocks or eat algae?
 
 *Answer:* probably algae 🤢
-*Answer:* 
+*Answer:* I feel like rocks would be so interesting bc they all have different textures and geological histories. like lava rock versus limestone.
+limestone is probably so acidic and weird. and lava rock probably really smoky
 
 **Question 7.** If you could go anywhere in the world right now where would you go?
 
+*Answer:* I've been wanting to go snorkeling so I would go somewhere to snorkel. Bahamas?
 *Answer:*
 
 **Other resources**

@@ -20,7 +20,7 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 **Question 2.** Is a hot dog a sandwich? Justify your answer.
 
-*Answer:* 
+*Answer:* yeah i guess since it has bread but hot dogs are gross
 
 **Question 3.** What is your go-to karaoke anthem?
 

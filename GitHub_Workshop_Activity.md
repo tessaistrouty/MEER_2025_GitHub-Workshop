@@ -39,6 +39,11 @@ To start, be careful not to make changes on the same line -- this can introduce 
 *Answer:* Presque Isle State Park, south of the Porcupine Mountains 
 *Answer:* i like looking for petoskey stones but i havent really been many places in michigan yet to have a favorite
 
+**Question 6.** Would you rather eat rocks or eat algae?
+
+*Answer:* 
+*Answer:* 
+
 **Other resources**
 
 -   [Happy git with R](https://happygitwithr.com/)

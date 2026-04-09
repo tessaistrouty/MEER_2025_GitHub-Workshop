@@ -24,7 +24,7 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 **Question 3.** What is your go-to karaoke anthem?
 
-*Answer:*
+*Answer:* Dancing Queen
 
 **Question 4.** Which fictional ecosystem would you study if you could? E.g., the sand dunes of Arrakis, the Misty Mountains of Middle Earth.
 

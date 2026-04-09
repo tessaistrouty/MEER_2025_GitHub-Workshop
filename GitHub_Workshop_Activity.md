@@ -39,6 +39,17 @@ To start, be careful not to make changes on the same line -- this can introduce 
 *Answer:* Presque Isle State Park, south of the Porcupine Mountains 
 *Answer:* i like looking for petoskey stones but i havent really been many places in michigan yet to have a favorite
 
+**Question 6.** Would you rather eat rocks or eat algae?
+
+*Answer:* probably algae 🤢
+*Answer:* I feel like rocks would be so interesting bc they all have different textures and geological histories. like lava rock versus limestone.
+limestone is probably so acidic and weird. and lava rock probably really smoky
+
+**Question 7.** If you could go anywhere in the world right now where would you go?
+
+*Answer:* I've been wanting to go snorkeling so I would go somewhere to snorkel. Bahamas?
+*Answer:* umm japan or alaska but it might be too cold in alaska still so probably japan like in the mountains
+
 **Other resources**
 
 -   [Happy git with R](https://happygitwithr.com/)

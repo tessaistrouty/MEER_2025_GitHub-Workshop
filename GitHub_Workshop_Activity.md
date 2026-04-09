@@ -41,8 +41,12 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 **Question 6.** Would you rather eat rocks or eat algae?
 
+*Answer:* probably algae 🤢
 *Answer:* 
-*Answer:* 
+
+**Question 7.** If you could go anywhere in the world right now where would you go?
+
+*Answer:*
 
 **Other resources**
 

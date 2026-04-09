@@ -48,7 +48,7 @@ limestone is probably so acidic and weird. and lava rock probably really smoky
 **Question 7.** If you could go anywhere in the world right now where would you go?
 
 *Answer:* I've been wanting to go snorkeling so I would go somewhere to snorkel. Bahamas?
-*Answer:*
+*Answer:* umm japan or alaska but it might be too cold in alaska still so probably japan like in the mountains
 
 **Other resources**
 

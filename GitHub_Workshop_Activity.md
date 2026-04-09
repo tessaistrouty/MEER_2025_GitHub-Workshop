@@ -17,6 +17,7 @@ To start, be careful not to make changes on the same line -- this can introduce 
 **Question 1.** Would you rather be able to fly or breathe underwater?
 
 *Answer:* I would rather fly.
+*Answer:* fly definitely
 
 **Question 2.** Is a hot dog a sandwich? Justify your answer.
 
@@ -32,7 +33,7 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 **Question 5.** What is your favorite place in Michigan?
 
-Presque Isle State Park, south of the Porcupine Mountains 
+*Answer:* Presque Isle State Park, south of the Porcupine Mountains 
 
 **Other resources**
 

@@ -23,9 +23,11 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 *Answer:* yeah i guess since it has bread but hot dogs are gross
 *Answer:* i think a hot dog is more of a taco bc its 2/3 wrapped in bread you know but i agree hot dogs are gross
+
 **Question 3.** What is your go-to karaoke anthem?
 
 *Answer:* Dancing Queen
+*Answer:* none because if i ever am doing karaoke please take me to the hospital because i would NOT be in my right mind
 
 **Question 4.** Which fictional ecosystem would you study if you could? E.g., the sand dunes of Arrakis, the Misty Mountains of Middle Earth.
 
